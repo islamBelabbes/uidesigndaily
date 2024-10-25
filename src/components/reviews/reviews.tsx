@@ -15,7 +15,7 @@ type TReviewItem = {
 
 function Reviews() {
   return (
-    <div className="p-[84px] shadow-[0px_12px_92px_0px_rgba(25,27,74,0.1)] font-poppins flex font-black text-[#191B4A] gap-14 flex-col bg-[#F8F8F8] rounded-[1.438rem]">
+    <div className="p-[84px] shadow-[0px_12px_92px_0px_rgba(25,27,74,0.1)] font-poppins flex font-black text-[#191B4A] gap-14 flex-col bg-[#F8F8F8] rounded-[1.438rem] h-fit">
       <Header />
       <SearchBar />
       <ReviewsList />

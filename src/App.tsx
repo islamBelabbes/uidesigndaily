@@ -1,5 +1,5 @@
-import routes from "./util/routes";
 import { Link } from "react-router-dom";
+import routes from "./util/routes";
 function App() {
   return (
     <article className="w-full">

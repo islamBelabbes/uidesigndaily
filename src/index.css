@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.prog {
+  transition: width 0 ease; /* Smooth, consistent animation */
+}
